@@ -226,7 +226,7 @@ background:black;
 
 body{ 
 display: grid; 
-background-color: lightpink;
+background-color: light gray;
   grid-template-rows: 80px 1fr 50px;
   border-style: dashed;
   border-color: red;
